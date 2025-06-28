@@ -37,7 +37,7 @@ The dashboard was designed to:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](QSR DASHBOARD.png)
 
 > One-page executive dashboard with filters, cards, stacked visuals, and drill-downs.
 
