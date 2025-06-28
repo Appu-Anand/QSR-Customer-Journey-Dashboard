@@ -36,8 +36,7 @@ The dashboard was designed to:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](images/dashboard-preview.png)
-
+![Dashboard Preview](images/dashboard_preview.png)
 
 > One-page executive dashboard with filters, cards, stacked visuals, and drill-downs.
 
